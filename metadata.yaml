@@ -1,0 +1,20 @@
+_repo: Svensk-litteraturhistoria_49801
+creator:
+  authors:
+  - agent_name: Henrikz, H. H.
+    gutenberg_agent_id: '45547'
+    url: http://www.gutenberg.org/2009/agents/45547
+  - agent_name: Forsberg, Hjalmar
+    gutenberg_agent_id: '45546'
+    url: http://www.gutenberg.org/2009/agents/45546
+description: ''
+gutenberg_issued: '2015-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49801'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Svensk litteraturhistoria
+url: http://www.gutenberg.org/ebooks/49801
