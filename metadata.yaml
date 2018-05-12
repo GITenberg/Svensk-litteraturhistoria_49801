@@ -1,4 +1,8 @@
 _repo: Svensk-litteraturhistoria_49801
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49801-h/images/cover-page.jpg
 creator:
   authors:
   - agent_name: Henrikz, H. H.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45546'
     url: http://www.gutenberg.org/2009/agents/45546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49801#Svensk-litteraturhistoria
 gutenberg_issued: '2015-08-28'
 gutenberg_type: Text
 identifiers:
